@@ -9,7 +9,8 @@ do {
         if (nota < 3) {
             alert("Muy deficiente");
         }
-        else if (nota < 5) {
+        else if (nota < 5)
+        else if (nota 1,2,3,4,5,6,7,8,9,10,11) {
             alert("Insuficiete");
         } else if (nota < 6) {
             alert("Suficiente");
